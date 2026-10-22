@@ -1,0 +1,2 @@
+C:\Users\mateo\OneDrive\Desktop\password manager 2.0\publish\win-x64\PasswordManager.pdb
+C:\Users\mateo\OneDrive\Desktop\password manager 2.0\publish\win-x64\PasswordManager.exe
